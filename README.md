@@ -1,16 +1,6 @@
 # 0xShinChan
 
-> DeFi explorer · Yield farmer · Shitposter on X · Based in Hong Kong 🇭🇰
-
-```js
-const shinChan = {
-  location: "Hong Kong",
-  org: "Yield Club",
-  interests: ["DeFi", "Perps", "On-chain analytics"],
-  website: "yie1d.club",
-  twitter: "@0xShinChannn"
-}
-```
+> DeFi growth hacker · Yield farmer · Shitposter on X · Based in Hong Kong 🇭🇰
 
 ---
 
